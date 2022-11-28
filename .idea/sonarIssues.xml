@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/admin/generate-pdf.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/admin/header.php">
           <value>
             <set />
@@ -28,12 +33,72 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/admin/report-customer-info.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/report.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/supplier-add.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/supplier-all-orders.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/supplier-delete.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/supplier-edit.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/supplier-order.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/supplier-order_delete-delete.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/supplier_order_add.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/suppliers.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/index.php">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/registration.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/upwork/test-proposals/SWE316-Projects-TimeLine/ExcelReader.java">
           <value>
             <set />
           </value>
