@@ -9,7 +9,7 @@ date_default_timezone_set('Asia/Colombo');
 $dbhost = 'localhost';
 
 // Database Name
-$dbname = 'fashiony_ogs';
+$dbname = 'grocerysystem';
 
 // Database Username
 $dbuser = 'root';
