@@ -18,6 +18,46 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/admin/CustomerAllReports.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/TCPDF-main/examples/config/tcpdf_config_alt.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/TCPDF-main/yearly-wise-sales-report.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/brand.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/color-add.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/color-edit.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/color.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/daily-sales-report.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/admin/generate-pdf.php">
           <value>
             <set />
@@ -33,12 +73,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/admin/payment-details-report.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/product-add.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/admin/report-customer-info.php">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/admin/report.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/reports/CustomerAllReport.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/reports/CustomerAllReports.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/size.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/stock-report.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/style.css">
           <value>
             <set />
           </value>
@@ -83,6 +158,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/admin/weight-add.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/weight-edit.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/weight.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/admin/yearly-wise-sales-report.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/composer.json">
           <value>
             <set />
@@ -93,7 +188,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/payment-details-report.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/registration.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/supplier-all-report.php">
           <value>
             <set />
           </value>

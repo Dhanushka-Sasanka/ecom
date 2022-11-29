@@ -64,8 +64,6 @@ J
 D
 cart-item-delete.php,5\4\54053604f108cc8f7d49f1ebafc8bd1cce5c1431
 K
-admin/css/bootstrap.min.css,a\1\a1133ba28ad35dda0bdb14d365c44c704ad914d4
-K
 admin/css/all/line/blue.css,6\e\6eb199e56f858052854988a13b997c3c29984ec8
 P
  admin/js/bootstrap-datepicker.js,9\1\9190b6bf519c1e41ed1a62fd678f34b0d0992709
@@ -77,10 +75,6 @@ W
 'assets/js/bootstrap-touch-slider-min.js,0\1\01b8a8bd09b03d9d55075d2f7642180b3a9bcf7e
 F
 admin/color-delete.php,b\9\b9587364edba1646b67a45b7475e7d583a1a392d
-D
-admin/color-edit.php,b\c\bc01fe25974dbccdced9f24ba8cc8c5636bca47d
-C
-admin/color-add.php,b\e\bec964698cbbf715b13681ab09280e344ddf0581
 I
 admin/js/clipboard.min.js,9\9\99ea875f25051fefd3af96f5852e57638b64254c
 L
@@ -133,12 +127,8 @@ J
 ,admin/fonts/glyphicons-halflings-regular.svg,9\4\9478897156099449018ff3c4f62a4b8022ebf328
 T
 $assets/fonts/fontawesome-webfont.svg,3\3\333735d302b60524945f95a73f628e6c4f9b8a58
-C
-forget-password.php,6\8\68761f3896b4f0eca67d86c20b430588512e06ca
 ]
 -assets/fonts/glyphicons-halflings-regular.svg,4\2\422c2dbe30da2135a12d1192179902a039447788
-G
-admin/inc/functions.php,7\a\7a4be0a96df3918d5aad76e71fab8850cd637b7d
 J
 admin/get-end-category.php,3\b\3bc706556aa3b4da28581bb77e24811a4cff6002
 L
@@ -248,8 +238,6 @@ B
 admin/language.php,b\b\bbbf87b5cb5bce453912203f9ba3146d3295c95e
 M
 admin/order-change-status.php,7\0\70e34f9080c60bd93ea227ac1b26d4eac26a02e6
-C
-admin/photo-add.php,5\a\5a7fbbee132349ee7c35cbc372ac707e8881b9ef
 I
 admin/js/on-off-switch.js,c\0\c04b328d188abcde9c61e5775b16209881ab766c
 F
@@ -298,8 +286,6 @@ L
 admin/css/all/square/red.css,9\3\93e82b8a3dce457f6c1d9ace05e3f6f03da06d5e
 O
 admin/css/all/square/yellow.css,a\7\a7d3e221768427ed841b6d1faf6774920889f155
-@
-registration.php,3\e\3ef1a5c516de31635328570ee026947e5eb0887b
 P
  admin/css/all/minimal/purple.css,e\4\e4693db632ca8446c5a3209caca6c1978e0d13dc
 M
@@ -350,15 +336,11 @@ K
 M
 admin/top-category-delete.php,1\9\195d870df4b9bc80d49aafb813c6bcc7e99c20f2
 E
-admin/product-add.php,b\b\bb0fff4f477604ba052f054e43d1e031e03fc4da
-E
 assets/css/rating.css,0\9\09279488743edca39e2c48581ffe55bc6b8327a4
 @
 admin/slider.php,4\f\4fac17dacce726db09b340da535958bfee3b9732
 J
 assets/css/select2.min.css,d\3\d36dea6d957b68b9b0d5757e87fe92f989eaadec
-B
-admin/size-add.php,6\c\6c4f630472800db805c37527492e4a0709b3476e
 I
 assets/css/responsive.css,8\4\84b7951b0bbb9951945bca5bebc25d41a3966421
 C
@@ -377,14 +359,10 @@ P
  admin/shipping-change-status.php,3\b\3b6a1cb7556f6a23d912203f8a3661a9d2a3573f
 G
 admin/slider-delete.php,0\4\04b2ac1b52167e934c7e68b517acf4ebf5e7d50c
-?
-admin/style.css,4\6\46751e80892b9f63098f8d14f25d3b9e224b279c
 D
 admin/subscriber.php,0\8\08a8db67b576a870b7838171537140d9b7a54632
 D
 admin/slider-add.php,9\a\9a2cfdf77199b22bf4719d6e421b2495d5b3e106
->
-admin/size.php,6\1\6153bcbbb81353340dbf997c9775951787f0f04c
 L
 admin/js/select2.full.min.js,d\c\dc23cf98d182cddb17ff5105fafa41162d5b4530
 I
@@ -405,5 +383,3 @@ M
 	about.php,6\9\69f755511667ed25e488bc8f9394801e0b1be123
 D
 customer-sidebar.php,f\d\fd2fb004b7666a536f6be41237526922da58f7c5
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
